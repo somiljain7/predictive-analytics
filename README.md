@@ -7,4 +7,6 @@
 
 #3 the candidate predictors describes the objects in population
 
-#4 
+#4 the target has information about the event to predict
+
+#5
