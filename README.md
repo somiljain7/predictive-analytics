@@ -10,3 +10,5 @@
 #4 the target has information about the event to predict
 
 #5 you can retrieve the coefficients using the attribute coef_. 
+
+#6 the goal of variable selection is to select a set of variables that hasoptimal performance
