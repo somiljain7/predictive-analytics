@@ -19,3 +19,6 @@
 1) function auc that calculates AUC gives a certain set of variables
 2)function best_next that returns next best variable in combination with current variables
 3)loop until desired number of variables
+
+#9 It can happen that a good variable is not added because it is highly correlated with a variable that is already in the model. You can test this calculating the correlation between these variables:
+corrcoef(basetable["variable_1"],basetable["variable_2"])[0,1]
