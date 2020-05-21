@@ -9,4 +9,4 @@
 
 #4 the target has information about the event to predict
 
-#5
+#5 you can retrieve the coefficients using the attribute coef_. 
