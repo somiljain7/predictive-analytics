@@ -12,3 +12,5 @@
 #5 you can retrieve the coefficients using the attribute coef_. 
 
 #6 the goal of variable selection is to select a set of variables that hasoptimal performance
+
+#7 A measure to quantify performance of predictive models is AUC value (0,1) roc_auc_score(true_target, prob_target)
